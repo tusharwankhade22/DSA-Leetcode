@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tusharwankhade22/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tusharwankhade22/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3731-find-missing-elements](https://github.com/tusharwankhade22/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tusharwankhade22/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/tusharwankhade22/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/tusharwankhade22/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -31,4 +33,5 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/tusharwankhade22/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/tusharwankhade22/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
